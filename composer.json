@@ -1,0 +1,29 @@
+{
+    "name": "westhack/think-swagger",
+    "description": "swagger for thinkphp5",
+    "homepage": "https://github.com/westhack/think-swagger",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "westhack",
+            "email": "452855489@qq.com"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/westhack/think-swagger/issues"
+    },
+    "require": {
+        "php": ">=5.4.0",
+        "zircote/swagger-php": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "westhack\\swagger\\": "src/"
+        },
+        "files": [
+            "src/route.php"
+        ]
+    }
+}
