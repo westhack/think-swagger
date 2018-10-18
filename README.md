@@ -6,7 +6,7 @@ Swagger composer模块
 
 ### 一、执行命令安装
 ```
-composer require westhack/think-swagger
+composer require westhack/think-swagger:^*
 ```
 
 或者
