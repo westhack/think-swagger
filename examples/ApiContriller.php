@@ -1,11 +1,5 @@
 <?php
 /**
- * @link https://www.zhongxinwanka.com/
- *
- * @copyright Copyright (c) 2018 众鑫玩卡
- */
-
-/**
  * @see https://github.com/zircote/swagger-php/tree/2.x/Examples/
  * @SWG\Swagger(
  *     basePath="/v1/",
